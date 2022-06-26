@@ -1,3 +1,3 @@
 # Demo
 
-Description for git demo repo
+Description for git demo repo.
