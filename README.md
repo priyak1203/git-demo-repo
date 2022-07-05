@@ -2,4 +2,7 @@
 
 Description for git demo repo.
 
-Some more description
+Some more description.
+
+Watch tutorial on youtube.
+Follow instructions.
