@@ -11,7 +11,10 @@ This example was for repo created in github and clone to the local machine.
 
 Git commands used
 
-git clone
-git add
-git commit
-git push
+1. git clone
+
+2. git add
+
+3. git commit
+
+4. git push
